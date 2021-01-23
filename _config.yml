@@ -21,8 +21,7 @@
 title: Adair Neto
 email: adairasilvan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Estudante de Matemática no IMECC - Unicamp.
-  Interessado em computação, finanças, lógica e inteligência artificial.
+  Matemática, Computação e Finanças.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: herrmath
