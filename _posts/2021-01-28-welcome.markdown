@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2021-01-28 19:07:55 -0300
+categories: other
+---
+Welcome to my personal website. Here you will find my [CV](../../2021-01-28-CV-public.pdf) and other info [about me](../about.markdown).
+
+I will also share my research and other interesting things about Logic, Mathematics and Computer Science.
