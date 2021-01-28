@@ -23,7 +23,7 @@ email: adair@riseup.net
 description: >- # this means to ignore newlines until "baseurl:"
   A personal math blog
 baseurl: "/adairneto.github.io" # the subpath of your site, e.g. /blog
-url: "https://adairneto.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://adairneto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 <<<<<<< HEAD
 # twitter_username: herrmath
 =======
