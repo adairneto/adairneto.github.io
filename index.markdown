@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: post
 ---
 
 Welcome to my personal website. Here you will find my [CV](https://raw.githubusercontent.com/adairneto/adairneto.github.io/main/2021-01-28-CV-public.pdf) and other info [about me](https://adairneto.github.io/adairneto.github.io/about/).
