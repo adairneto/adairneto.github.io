@@ -1,8 +1,4 @@
----
-layout: default
-title: About
-permalink: /about/
----
+# About Me
 
 I am an undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/).
 
