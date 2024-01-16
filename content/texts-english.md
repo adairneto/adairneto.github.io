@@ -7,7 +7,7 @@ menu = "main"
 
 [Study Practices](https://github.com/adairneto/adairneto/blob/main/Study%20Practices.md)
 
-[Stochastic Differential Equations](https://raw.githubusercontent.com/adairneto/Stochastic-Differential-Equations/main/Notes/Main.pdf)
+[Stochastic Differential Equations](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Notes/Main.pdf)
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
 
