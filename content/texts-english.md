@@ -5,8 +5,6 @@ menu = "main"
 
 # ✏️🇬🇧 Texts (English)
 
-[Study Practices](https://github.com/adairneto/adairneto/blob/main/Study%20Practices.md)
-
 [Stochastic Differential Equations](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Notes/Main.pdf)
 
 [Stochastic Differential Equations: Solved problems from Øksendal's book](https://github.com/adairneto/Stochastic-Differential-Equations/tree/main/Exercises%20(pdf))
@@ -14,6 +12,8 @@ menu = "main"
 [Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/Literature%20Notes/Literature-Notes.pdf)
 
 [Malliavin Calculus: Solved problems from Nunno, Øksendal & Proske](https://github.com/adairneto/Malliavin-Calculus/tree/main/Exercises)
+
+[An Introduction to Malliavin Calculus (slides)](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf)
 
 [Financial Risk Management with R](https://github.com/adairneto/Finance/blob/main/Notes.pdf)
 
@@ -28,3 +28,5 @@ menu = "main"
 [Principles of Macroeconomics](https://raw.githubusercontent.com/adairneto/Macroeconomics/main/Macroeconomics.pdf)
 
 [Intuitionistic Logic](https://raw.githubusercontent.com/adairneto/Intuitionistic-Logic/main/intuitionistic.pdf)
+
+[Study Practices](https://github.com/adairneto/adairneto/blob/main/Study%20Practices.md)
