@@ -1,3 +1,9 @@
+---
+title: Home
+favicon: 
+lang: en
+---
+
 # Welcome to my web page! 
 
 I'm an undergraduate Mathematics student at [IMECC - Unicamp](https://www.ime.unicamp.br/).
