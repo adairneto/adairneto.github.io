@@ -1,9 +1,9 @@
 +++
-title = "Texts (English 🇬🇧)"
+title = "Texts (English)"
 menu = "main"
 +++
 
-# ✏️🇬🇧 Texts (English)
+# Texts in English
 
 [Stochastic Differential Equations](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Notes/Main.pdf)
 
