@@ -11,6 +11,8 @@ Topologia Geral (Exercícios Resolvidos): [Parte 1](https://github.com/adairneto
 
 Análise 2 (Exercícios Resolvidos): [Parte 1](https://github.com/adairneto/An-lise-2/blob/main/Exerc%C3%ADcios%20P1%20MA602.pdf), [Parte 2](https://github.com/adairneto/An-lise-2/blob/main/Exerc%C3%ADcios%20P2%20MA602.pdf) e [Parte 3](https://github.com/adairneto/An-lise-2/blob/main/Exerc%C3%ADcios%20P3%20MA602.pdf)
 
+[Introdução às Equações Diferenciais Estocásticas (Congresso Iniciação Científica 2022)](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/poster.pdf)
+
 [Álgebra Linear: Principais Ideias](https://github.com/adairneto/Algebra-Linear/raw/main/algelin-resumo.pdf)
 
 [Álgebra Linear: Exercícios Resolvidos](https://github.com/adairneto/Algebra-Linear/tree/main/Exerc%C3%ADcios%20Resolvidos)

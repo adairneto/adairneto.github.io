@@ -15,6 +15,10 @@ menu = "main"
 
 [An Introduction to Malliavin Calculus (slides)](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf)
 
+[An Application of Malliavin Calculus to Finance (poster)](https://github.com/adairneto/Malliavin-Calculus/blob/main/Poster%202024.pdf)
+
+[Monotonicity of Option Prices with Respect to Volatility (Poster)](https://github.com/adairneto/Malliavin-Calculus/blob/main/202309120742%20Poster%20Congresso%202023.pdf)
+
 [Financial Risk Management with R](https://github.com/adairneto/Finance/blob/main/Notes.pdf)
 
 [Advanced Linear Algebra](https://raw.githubusercontent.com/adairneto/Advanced-Linear-Algebra/main/Main.pdf)
