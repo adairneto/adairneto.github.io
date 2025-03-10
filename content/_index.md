@@ -1,7 +1,6 @@
 ---
 title: Home
 favicon: 
-lang: en
 ---
 
 # Welcome to my web page! 
