@@ -68,14 +68,17 @@ jobs:
 
   # Deployment job
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
     needs: build
+    name: Deploy to GitHub Pages
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: build
+          path: ./public
+      - uses: peaceiris/actions-gh-pages@v4.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
