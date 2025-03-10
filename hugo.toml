@@ -1,4 +1,0 @@
-baseURL = 'https://adairneto.github.io/'
-languageCode = 'en-us'
-title = 'Adair Neto'
-theme = 'hugo-bearblog'
