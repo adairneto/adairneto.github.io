@@ -5,6 +5,8 @@ menu = "main"
 
 # Texts in English
 
+[Monotonicity of Option Prices with Respect to Volatility (appeared in the Statistics and Mathematics Postgraduate Society (StAMPS) magazine)](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Monotonicity.pdf)
+
 [Machine Learning](https://github.com/adairneto/Machine-Learning/blob/main/MachineLearning.pdf)
 
 [Stochastic Differential Equations](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Notes/Main.pdf)
@@ -18,8 +20,6 @@ menu = "main"
 [An Introduction to Malliavin Calculus (slides)](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf)
 
 [An Application of Malliavin Calculus to Finance (poster)](https://github.com/adairneto/Malliavin-Calculus/blob/main/Poster%202024.pdf)
-
-[Monotonicity of Option Prices with Respect to Volatility](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Monotonicity.pdf)
 
 [Monotonicity of Option Prices with Respect to Volatility (Poster)](https://github.com/adairneto/Malliavin-Calculus/blob/main/202309120742%20Poster%20Congresso%202023.pdf)
 
