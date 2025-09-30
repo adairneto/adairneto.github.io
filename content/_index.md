@@ -5,7 +5,7 @@ favicon:
 
 # Welcome to my web page!
 
-<img style="float: right;" src="https://avatars.githubusercontent.com/u/65835635?v=4">
+<img style="float: right;" src="https://avatars.githubusercontent.com/u/65835635?v=4.jpg">
 
 I'm a PhD student at the [University of Melbourne's School of Mathematics and Statistics](https://ms.unimelb.edu.au/). My supervisor is [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/). Previously, I completed my undergraduate degree in Mathematics at [IMECC - Unicamp](https://www.ime.unicamp.br/).
 
