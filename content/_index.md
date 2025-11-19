@@ -3,7 +3,7 @@ title: Home
 favicon:
 ---
 
-# Welcome to my web page!
+# Hello there!
 
 <div style="float: left; margin-right: 20px;">
   <img src="https://avatars.githubusercontent.com/u/65835635?v=4.jpg" alt="photo" style="max-width: 50%; height: auto;">
