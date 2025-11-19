@@ -6,7 +6,6 @@ menu = "main"
 # Code
 
 - [How To Design Programs](https://github.com/adairneto/How-to-Design-Programs): Codes in Clojure, based on the homonymous book.
-- [Machine Learning](https://github.com/adairneto/Machine-Learning).
 - [FUMEC](https://github.com/adairneto/FUMEC): Python codes used to analyse and treat data while working at FUMEC.
 - [Numerical Methods](https://github.com/adairneto/Numerical-Analysis): MatLab codes to solve mathematical problems. Used in a Numerical Methods course.
 - [Small Projects](https://github.com/adairneto/Small-Projects): Codes in C, Haskell and Python for general small projects.
