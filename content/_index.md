@@ -15,4 +15,4 @@ My main research interest is in the interplay between Probability and Geometry. 
 
 For more details about my background, check out my CV [here](https://github.com/adairneto/CV/blob/main/CV.pdf).
 
-_Disclaimer: No generative AI was used in the making of this content._
+_Disclaimer: No generative artificial intelligence was used in the making of the content of this website._
