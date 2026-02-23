@@ -27,5 +27,4 @@ For more details about my background, check out my CV [here](https://github.com/
 - Random Fields on Euclidean Spaces. First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
 
-
 <!-- _Disclaimer: No generative artificial intelligence was used in the making of the content of this website._ -->
