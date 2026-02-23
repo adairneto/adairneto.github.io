@@ -17,7 +17,7 @@ For more details about my background, check out my CV [here](https://github.com/
 
 ## Teaching
 
-- 2026, First Semester: Tutor (Teaching Assistant) for Probability for Inference (third year undergraduate) and marking for Random Processes (Master's Level) at the University of Melbourne.
+- 2026, First Semester: Tutor (Teaching Assistant) for Probability for Inference (third year undergraduate) and Course Assistant for Random Processes (Master's Level) at the University of Melbourne.
 - 2025, Second Semester: Tutor (Teaching Assistant) for Advanced Probability (Master's Level) at the University of Melbourne.
 - 2024, Second Semester: Teaching Assistant for graduate level Real Analysis (Measure Theory) at the University of Campinas.
 - 2021, Second Semester: Undergraduate Teaching Assistant: Linear Algebra at the University of Campinas.
@@ -27,4 +27,4 @@ For more details about my background, check out my CV [here](https://github.com/
 - Random Fields on Euclidean Spaces. First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
 
-_Disclaimer: No generative artificial intelligence was used in the making of the content of this website._
+<!-- _Disclaimer: No generative artificial intelligence was used in the making of the content of this website._ -->
