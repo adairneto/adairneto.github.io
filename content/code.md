@@ -14,6 +14,3 @@ menu = "main"
 Most used languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adairneto&&show_icons=true&hide_title=true&theme=radical&layout=compact&hide_border=true&border_radius=30&langs_count=15&exclude_repo=Analyseroom&hide=html,css,tex)
-
-
-
