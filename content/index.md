@@ -4,8 +4,8 @@ title: Adair Neto's Webpage
 
 # Hello there!
 
-![[C44008AD-232A-4046-A3E4-58CC6E13D30D_4_5005_c.jpeg]]
 I'm a PhD student at the [University of Melbourne's School of Mathematics and Statistics](https://ms.unimelb.edu.au/). My supervisor is [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/) and my co-supervisor is [Marco Carfagnini](https://sites.google.com/view/marcocarfagnini). Previously, I completed my undergraduate degree in Mathematics at [IMECC - Unicamp](https://www.ime.unicamp.br/).
+![[C44008AD-232A-4046-A3E4-58CC6E13D30D_4_5005_c.jpeg|inlR]]
 
 My main research interest is in the interplay between Probability, Analysis and Geometry. I am working primarily on Stochastic Partial Differential Equations, and am also interested in Rough Path theory and Malliavin Calculus.
 
