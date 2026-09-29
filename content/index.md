@@ -23,7 +23,7 @@ For more details about my background, check out my CV [here](https://github.com/
 
 - Organising and reading Tom Hutchcroft's [The critical two-point function for long-range percolation on the hierarchical lattice](http://arxiv.org/abs/2103.17013). Second semester of 2026 at the Probability Reading Group of The University of Melbourne. This is being presented by a group of students, with each of us presenting once or twice. 
 - Fluctuation Asymptotics of the Parabolic Anderson Model on the Heisenberg Group. New Trends in Rough Analysis: Open Challenges and Applications. June 2026, Hangzhou.
-- [Random Fields on Euclidean Spaces](https://github.com/adairneto/adairneto.github.io/blob/main/static/RFES.pdf). First semester of 2026 at the Probability Reading Group (University of Melbourne).
+- [Random Fields on Euclidean Spaces](https://github.com/adairneto/Mathematical-Notes/blob/main/RFES.pdf). First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
 
 <!--_Disclaimer: No generative artificial intelligence was used in the making of the content of this website._-->

@@ -5,11 +5,11 @@ title: Mathematical Notes
 
 [Monotonicity of Option Prices with Respect to Volatility (appeared in the Statistics and Mathematics Postgraduate Society (StAMPS) magazine)](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Monotonicity.pdf)
 
-[Machine Learning](https://github.com/adairneto/adairneto.github.io/blob/main/static/MachineLearning.pdf)
+[Machine Learning](https://github.com/adairneto/Mathematical-Notes/blob/main/MachineLearning.pdf)
 
-[Statistical Mechanics](https://github.com/adairneto/adairneto.github.io/blob/main/static/StatMech.pdf)
+[Statistical Mechanics](https://github.com/adairneto/Mathematical-Notes/blob/main/StatMech.pdf)
 
-[Random Fields on Euclidean Spaces](https://github.com/adairneto/adairneto.github.io/blob/main/static/RFES.pdf)
+[Random Fields on Euclidean Spaces](https://github.com/adairneto/Mathematical-Notes/blob/main/RFES.pdf)
 
 [Stochastic Differential Equations](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Notes/Main.pdf)
 
