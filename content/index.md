@@ -1,7 +1,6 @@
 ---
 title: Adair Neto's Webpage
 ---
-[[Code]] | [[Contact]] | [[Mathematical Notes]] | [[Research]]
 # Hello there!
 <img src="/Attachments/C44008AD-232A-4046-A3E4-58CC6E13D30D_4_5005_c.jpeg" style="float: right; width: 250px; margin-left: 20px;">
 
@@ -25,5 +24,7 @@ For more details about my background, check out my CV [here](https://github.com/
 - Fluctuation Asymptotics of the Parabolic Anderson Model on the Heisenberg Group. New Trends in Rough Analysis: Open Challenges and Applications. June 2026, Hangzhou.
 - [Random Fields on Euclidean Spaces](https://github.com/adairneto/Mathematical-Notes/blob/main/RFES.pdf). First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
+
+[[Code]] | [[Contact]] | [[Mathematical Notes]] | [[Research]]
 
 <!--_Disclaimer: No generative artificial intelligence was used in the making of the content of this website._-->
