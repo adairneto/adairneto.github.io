@@ -1,7 +1,7 @@
 ---
 title: Mathematical Notes
 ---
-## Texts in English
+## English
 
 [Monotonicity of Option Prices with Respect to Volatility (appeared in the Statistics and Mathematics Postgraduate Society (StAMPS) magazine)](https://github.com/adairneto/Stochastic-Differential-Equations/blob/main/Monotonicity.pdf)
 
@@ -41,7 +41,7 @@ title: Mathematical Notes
 
 [Study Practices](https://github.com/adairneto/adairneto/blob/main/Study%20Practices.md)
 
-## In Portuguese 
+## Portuguese 
 
 Grupos e Representações (Exercícios Resolvidos): [Parte 1](https://github.com/adairneto/Grupos-e-Representa-es/blob/main/Exerc%C3%ADcios%20P1%20MA446.pdf), [Parte 2](https://github.com/adairneto/Grupos-e-Representa-es/blob/main/Exerc%C3%ADcios%20P2%20MA446.pdf) e [Parte 3](https://github.com/adairneto/Grupos-e-Representa-es/blob/main/Exerc%C3%ADcios%20P3%20MA446.pdf)
 

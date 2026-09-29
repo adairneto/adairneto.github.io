@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-AU
+  locale: en-US
   baseUrl: adairneto.github.io
   ignorePatterns:
     - private
