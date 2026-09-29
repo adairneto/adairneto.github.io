@@ -1,7 +1,6 @@
 ---
 title: Adair Neto's Webpage
 ---
-
 # Hello there!
 
 I'm a PhD student at the [University of Melbourne's School of Mathematics and Statistics](https://ms.unimelb.edu.au/). My supervisor is [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/) and my co-supervisor is [Marco Carfagnini](https://sites.google.com/view/marcocarfagnini). Previously, I completed my undergraduate degree in Mathematics at [IMECC - Unicamp](https://www.ime.unicamp.br/).
