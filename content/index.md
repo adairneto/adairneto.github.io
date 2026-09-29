@@ -12,11 +12,11 @@ For more details about my background, check out my CV [here](https://github.com/
 
 ## Teaching
 
-- 2026, Second Semester: Tutor and Subject Assistant for Probability (second year undergraduate) at the University of Melbourne.
-- 2026, First Semester: Tutor (Teaching Assistant) for Probability for Inference (third year undergraduate) and Course Assistant for Random Processes (Master's Level) at the University of Melbourne.
-- 2025, Second Semester: Tutor (Teaching Assistant) for Advanced Probability (Master's Level) at the University of Melbourne.
-- 2024, Second Semester: Teaching Assistant for graduate level Real Analysis (Measure Theory) at the University of Campinas.
-- 2021, Second Semester: Undergraduate Teaching Assistant: Linear Algebra at the University of Campinas.
+- 2026, Second Semester: Tutor and Subject Assistant for [Probability](https://handbook.unimelb.edu.au/subjects/mast20004) (second year undergraduate) at the University of Melbourne.
+- 2026, First Semester: Tutor (Teaching Assistant) for [Probability for Inference](https://handbook.unimelb.edu.au/2026/subjects/mast30020) (third year undergraduate) and Course Assistant for [Random Processes](https://handbook.unimelb.edu.au/2026/subjects/mast90019) (Master's Level) at the University of Melbourne.
+- 2025, Second Semester: Tutor (Teaching Assistant) for [Advanced Probability](https://handbook.unimelb.edu.au/2025/subjects/mast90081) (Master's Level) at the University of Melbourne.
+- 2024, Second Semester: Teaching Assistant for graduate level [Real Analysis (Measure Theory)](https://www.dac.unicamp.br/portal/caderno-de-horarios/2024/2/S/P/IMECC/MM419) at the University of Campinas.
+- 2021, Second Semester: Undergraduate Teaching Assistant: [Linear Algebra](https://www.dac.unicamp.br/portal/caderno-de-horarios/2021/2/S/G/IMECC/MA327) at the University of Campinas.
 
 ## Presentations
 
