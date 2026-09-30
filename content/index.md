@@ -25,6 +25,6 @@ For more details about my background, check out my CV [here](https://github.com/
 - [Random Fields on Euclidean Spaces](https://github.com/adairneto/Mathematical-Notes/blob/main/RFES.pdf). First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
 
-[[Code]] | [[Contact]] | [[Mathematical Notes]] | [[Research]]
+_Disclaimer: No generative artificial intelligence was used in the making of the content of this website. I support the [Leiden Declaration](https://leidendeclaration.ai/) and am a member of the [The Association For Human Mathematics](https://www.ahmath.org/). For more on generative AI, please read Tasmin Chu's [Essays on AI and mathematics](https://publish.obsidian.md/tasmin-chu/Essays+on+AI+and+mathematics)._
 
-<!--_Disclaimer: No generative artificial intelligence was used in the making of the content of this website._-->
+[[Code]] | [[Contact]] | [[Mathematical Notes]] | [[Research]]
