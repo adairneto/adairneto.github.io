@@ -298,4 +298,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
-include: [ "/.well-known" ]
+include: [ ".well-known" ]
