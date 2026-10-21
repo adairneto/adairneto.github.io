@@ -3,6 +3,7 @@ title: Adair Neto's Webpage
 ---
 # Hello there!
 <img src="/Attachments/C44008AD-232A-4046-A3E4-58CC6E13D30D_4_5005_c.jpeg" style="float: right; width: 250px; margin-left: 20px;">
+
 I am a mathematician interested in creating analogies between different areas of mathematics. My current work lies at the intersection of probability, analysis and geometry, and I am also interested in connections with physics, economics and neuroscience.  
 
 Currently, I am pursuing a PhD in mathematics at the [University of Melbourne](https://ms.unimelb.edu.au/), under the supervision of [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/) and [Marco Carfagnini](https://sites.google.com/view/marcocarfagnini). My research investigates how geometry shapes the behaviour of stochastic partial differential equations. I am also interested in rough path theory, Malliavin calculus and related topics in stochastic analysis. Previously, I completed my undergraduate degree in mathematics at the [University of Campinas](https://www.ime.unicamp.br/).
