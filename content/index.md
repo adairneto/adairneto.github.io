@@ -3,10 +3,9 @@ title: Adair Neto's Webpage
 ---
 # Hello there!
 <img src="/Attachments/C44008AD-232A-4046-A3E4-58CC6E13D30D_4_5005_c.jpeg" style="float: right; width: 250px; margin-left: 20px;">
+I am a mathematician interested in creating analogies between different areas of mathematics. My current work lies at the intersection of probability, analysis and geometry, and I am also interested in connections with physics, economics and neuroscience.  
 
-I'm a PhD student at the [University of Melbourne's School of Mathematics and Statistics](https://ms.unimelb.edu.au/). My supervisor is [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/) and my co-supervisor is [Marco Carfagnini](https://sites.google.com/view/marcocarfagnini). Previously, I completed my undergraduate degree in Mathematics at [IMECC - Unicamp](https://www.ime.unicamp.br/).
-
-My main research interest is in the interplay between Probability, Analysis and Geometry. I am working primarily on Stochastic Partial Differential Equations, and am also interested in Rough Path theory and Malliavin Calculus.
+Currently, I am pursuing a PhD in mathematics at the [University of Melbourne](https://ms.unimelb.edu.au/), under the supervision of [Xi Geng](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/) and [Marco Carfagnini](https://sites.google.com/view/marcocarfagnini). My research investigates how geometry shapes the behaviour of stochastic partial differential equations. I am also interested in rough path theory, Malliavin calculus and related topics in stochastic analysis. Previously, I completed my undergraduate degree in mathematics at the [University of Campinas](https://www.ime.unicamp.br/).
 
 For more details about my background, check out my CV [here](https://github.com/adairneto/CV/blob/main/CV.pdf).
 
@@ -25,6 +24,6 @@ For more details about my background, check out my CV [here](https://github.com/
 - [Random Fields on Euclidean Spaces](https://github.com/adairneto/Mathematical-Notes/blob/main/RFES.pdf). First semester of 2026 at the Probability Reading Group (University of Melbourne).
 - [An introduction to Malliavin Calculus](https://github.com/adairneto/Malliavin-Calculus/blob/main/seminario.pdf). July, 2024, at the University of Campinas.
 
-_Disclaimer: No generative artificial intelligence was used in the making of the content of this website. I support the [Leiden Declaration](https://leidendeclaration.ai/) and am a member of the [The Association For Human Mathematics](https://www.ahmath.org/). For more on generative AI, please read Tasmin Chu's [Essays on AI and mathematics](https://publish.obsidian.md/tasmin-chu/Essays+on+AI+and+mathematics)._
+<!--_Disclaimer: No generative artificial intelligence was used in the making of the content of this website. I support the [Leiden Declaration](https://leidendeclaration.ai/) and am a member of the [The Association For Human Mathematics](https://www.ahmath.org/). For more on generative AI, please read Tasmin Chu's [Essays on AI and mathematics](https://publish.obsidian.md/tasmin-chu/Essays+on+AI+and+mathematics)._-->
 
 [[Code]] | [[Contact]] | [[Mathematical Notes]] | [[Research]]
